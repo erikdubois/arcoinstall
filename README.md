@@ -5,7 +5,13 @@
 <img src="https://github.com/archlinux/archinstall/raw/master/docs/logo.png" alt="drawing" width="200"/>
 </p>
 
-# Arcoinstall
+# Arcoinstall - FROZEN GITHUB
+
+# PART OF ARCOLINUX NOW
+
+CURRENT GITHUB IS HERE
+
+https://github.com/arconetpro/arcoinstall
 
 # Create you own Arch Linux ISO with access to the ArcoLinux packages and configs
 
