@@ -109,7 +109,7 @@ Facebook : https://www.facebook.com/groups/arcolinux/
 
 Flickr   : https://www.flickr.com/photos/arcolinux/
 
-Twitter  : https://twitter.com/arcolinux
+BlueSky : https://bsky.app/profile/arcolinux.bsky.social
 
 Instagram: https://www.instagram.com/arcolinux/
 
